@@ -1,5 +1,5 @@
 # PodCast-Trying
-Testando a criação de um PodCsst
+Testando a criação de um PodCast
 # Roteiro do Podcast  
 🎙 **Apresentado por Pedro Henrique**  
 
