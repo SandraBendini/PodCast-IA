@@ -63,8 +63,8 @@ Host:
 "Pra galera que tá ouvindo e quer dar o primeiro passo no Scrum, o que vocês recomendam?"
 Convidados compartilham dicas para começar a implementar Scrum, incluindo ferramentas úteis, materiais de estudo e estratégias iniciais para adoção.
 
-Host:
-"E pra fechar: qual foi o erro mais engraçado que vocês já cometeram ao começar com Scrum e o que aprenderam com isso?"
+    Host:
+    "E pra fechar: qual foi o erro mais engraçado que vocês já cometeram ao começar com Scrum e o que aprenderam com isso?"
 
 6. Encerramento 
 Host:
@@ -75,7 +75,7 @@ Host:
 Música tema encerrando.
 
 
-1. Abertura (5 minutos)
+1. Abertura do segundo episódio
 Música tema tocando
 Host (animado): "Fala, galera agilista! Sejam muito bem-vindos ao segundo episódio de 'O Backlog Não Tem Fim'! Eu sou [Seu Nome], seu Scrum Master preferido (ou pelo menos eu espero que sim), e hoje vamos dar um passo além na nossa jornada ágil.
 Se no primeiro episódio a gente desvendou o que é Scrum, hoje a gente vai se aprofundar nos desafios e, claro, trazer sugestões práticas pra você sair do famoso ciclo de 'apagar incêndios'. Tá achando que é só você que sofre com backlog infinito, Sprint bagunçada ou Daily que mais parece terapia? Relaxa, tá todo mundo junto nessa!"
