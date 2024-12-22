@@ -89,31 +89,32 @@ Host:
 "Pra começar, vamos tirar do caminho aquela pergunta que até o time mais experiente faz: o que diabos é o backlog e por que ele não para de crescer?"
 Convidado 1 explica o conceito de backlog de forma leve.
 
-Convidado 2 complementa com exemplos do dia a dia.
+    Convidado 2 complementa com exemplos do dia a dia.
 
-Host:
-"Agora, uma rápida rodada de mitos! Quero saber: é verdade que o backlog é só responsabilidade do Product Owner? Ou é mais um caso de 'culpa do Scrum Master'?"
-Convidados debatem e desmistificam.
+    Host:
+    "Agora, uma rápida rodada de mitos! Quero saber: é verdade que o backlog é só responsabilidade do Product Owner? Ou é mais um caso de 'culpa do Scrum Master'?"
+    Convidados debatem e desmistificam.
 
 3. Bloco 2: Dificuldades e Aprendizados (15 minutos)
 Host:
 "Ok, até aqui tá tranquilo. Mas vamos falar do caos. Quais são os maiores perrengues que vocês já enfrentaram com backlog? Tipo aquele item que nunca sai, ou aquela funcionalidade que cresce mais rápido que gremlin molhado?"
 Convidado 1 compartilha um caso engraçado ou desafiador.
 
-Convidado 2 traz uma experiência positiva, mostrando como superaram uma dificuldade.
+    Convidado 2 traz uma experiência positiva, mostrando como superaram uma dificuldade.
 
-Host:
-"E para quem tá ouvindo e pensando: 'meu backlog é pior', calma que ainda não acabamos! Quais são as maiores armadilhas que um time pode cair na hora de gerenciar backlog?"
+    Host:
+    "E para quem tá ouvindo e pensando: 'meu backlog é pior', calma que ainda não acabamos! Quais são as maiores armadilhas que um time pode cair na hora de gerenciar 
+    backlog?"
 Convidados discutem erros comuns e como evitá-los.
 
 4. Bloco 3: Casos de Sucesso e Dicas (15 minutos)
 Host:
 "Pra não dizer que é só caos, vamos às boas histórias. Conta pra gente um caso de sucesso de gestão de backlog que fez vocês pensarem: 'isso é um sonho ágil!'"
-Convidados compartilham casos de sucesso e práticas que funcionaram.
+    Convidados compartilham casos de sucesso e práticas que funcionaram.
 
-Host:
-"E agora, aquele momento: dica relâmpago! Se vocês tivessem que dar uma única dica pra galera melhorar o backlog, qual seria?"
-Cada convidado dá uma dica rápida e direta.
+    Host:
+    "E agora, aquele momento: dica relâmpago! Se vocês tivessem que dar uma única dica pra galera melhorar o backlog, qual seria?"
+    Cada convidado dá uma dica rápida e direta.
 
 
 5. Bloco 4: Perguntas da Comunidade (10 minutos)
