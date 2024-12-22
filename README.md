@@ -30,33 +30,33 @@ Host:
 "Antes de tudo, o que é Scrum e por que ele não tem nada a ver com rugby, mas tem tudo a ver com trabalho em equipe?"
 Convidado 1 explica de forma leve o conceito básico do Scrum, destacando o Manifesto Ágil e os pilares do Scrum: transparência, inspeção e adaptação.
 
-Convidado 2 complementa com exemplos práticos, como o uso do framework em projetos reais.
+    Convidado 2 complementa com exemplos práticos, como o uso do framework em projetos reais.
 
-Host:
-"Agora, me contem: qual foi o momento em que vocês perceberam que Scrum era mais que 'post-it bonito no quadro'?"
-Convidados compartilham experiências pessoais marcantes que ilustram o impacto do Scrum.
+    Host:
+    "Agora, me contem: qual foi o momento em que vocês perceberam que Scrum era mais que 'post-it bonito no quadro'?"
+    Convidados compartilham experiências pessoais marcantes que ilustram o impacto do Scrum.
 
 3. Bloco 2: Papéis no Scrum 
 Host:
 "Vamos descomplicar isso aqui. Quais são os três papéis no Scrum e por que cada um é fundamental?"
 Convidado 1 apresenta os papéis: Product Owner, Scrum Master e Time de Desenvolvimento, com foco nas responsabilidades de cada um.
 
-Convidado 2 adiciona insights sobre os desafios mais comuns em cada papel.
+    Convidado 2 adiciona insights sobre os desafios mais comuns em cada papel.
 
-Host:
-"E a pergunta que não quer calar: dá pra ser um time ágil sem Scrum Master? Ou isso é como dirigir sem GPS?"
-Convidados debatem e trazem exemplos de situações em que os papéis foram mal interpretados ou ausentes.
+    Host:
+    "E a pergunta que não quer calar: dá pra ser um time ágil sem Scrum Master? Ou isso é como dirigir sem GPS?"
+    Convidados debatem e trazem exemplos de situações em que os papéis foram mal interpretados ou ausentes.
 
 4. Bloco 3: Eventos no Scrum 
 Host:
 "Agora, bora falar dos eventos. Sprint Planning, Daily, Sprint Review, Retrospectiva... é muita reunião, mas tem método nessa 'loucura', né?"
 Convidado 1 explica o propósito de cada evento e por que eles são essenciais para o ciclo de melhoria contínua.
 
-Convidado 2 traz dicas práticas para tornar essas reuniões mais produtivas e menos cansativas.
+    Convidado 2 traz dicas práticas para tornar essas reuniões mais produtivas e menos cansativas.
 
-Host:
-"E agora, o quadro rápido: qual evento vocês acham que é o mais subestimado e por quê?"
-Convidados respondem com opiniões diretas e engraçadas.
+    Host:
+    "E agora, o quadro rápido: qual evento vocês acham que é o mais subestimado e por quê?"
+    Convidados respondem com opiniões diretas e engraçadas.
 
 5. Bloco 4: Dicas para Começar no Scrum 
 Host:
