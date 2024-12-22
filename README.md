@@ -83,10 +83,13 @@ Música tema encerrando.
 
 1. Abertura do segundo episódio
 Música tema tocando
-Host (animado): "Fala, galera agilista! Sejam muito bem-vindos ao segundo episódio de 'O Backlog Não Tem Fim'! Eu sou [Seu Nome], seu Scrum Master preferido (ou pelo menos eu espero que sim), e hoje vamos dar um passo além na nossa jornada ágil.
+Host (animado): "Fala, galera agilista! Sejam muito bem-vindos ao segundo episódio de 'O Backlog Não Tem Fim'! Eu sou Pedro Henrique, seu Scrum Master preferido (ou pelo menos eu espero que sim), e hoje vamos dar um passo além na nossa jornada ágil.
+
 Se no primeiro episódio a gente desvendou o que é Scrum, hoje a gente vai se aprofundar nos desafios e, claro, trazer sugestões práticas pra você sair do famoso ciclo de 'apagar incêndios'. Tá achando que é só você que sofre com backlog infinito, Sprint bagunçada ou Daily que mais parece terapia? Relaxa, tá todo mundo junto nessa!"
+
 Apresentação dos Convidados: "E pra essa conversa de alto nível, temos dois agilistas incríveis! De um lado, [Nome do Convidado 1], que acredita que "todo problema é só uma user story esperando solução". E do outro lado, [Nome do Convidado 2], especialista em transformar caos em entregas, que jura que "uma Sprint bem planejada é quase um milagre moderno"."
 Convidados respondem descontraídos: Breve apresentação deles.
+
 Host: "Então, pega seu café, ajeita sua postura e bora pra mais uma conversa que promete ser tão dinâmica quanto seu Kanban na sexta-feira!"
 
 2. Bloco 1: Conceitos e Contexto (15 minutos)
