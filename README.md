@@ -10,7 +10,9 @@ Testando a criação de um PodCast
 ### Introdução  
 HOST: "Fala, galera agilista! Este é o PodCast 'O Backlog Não Tem Fim!' — o podcast que é como a sua Sprint: começa cheio de promessas, mas no final sempre tem algo que vai pra próxima! Aqui, a gente descomplica o Scrum, conta histórias que você vai pensar ‘isso já aconteceu comigo’ e traz dicas pra você não surtar na próxima Daily. 
 Bora agilizar? Porque no mundo do Scrum, só uma coisa é certa: o Backlog NUNCA acaba!"
+
 (Inserir música tema ou som engraçado)
+
 "Eu sou Pedro Henrique, o Scrum Master dessa jornada podcastal. E, claro, teremos, convidados que manjam tanto de agilidade que são quase magos do backlog! Tá curioso? Então fica com a gente, pega um café — ou um post-it — e bora agilizar essa conversa!" 
 
 ---
@@ -21,8 +23,10 @@ Música tema tocando
 
 Host (animado):
 "Fala, galera agilista! Bem-vindos ao 'O Backlog Não Tem Fim'! O podcast que é como a sua Sprint: começa cheio de promessas, mas no final sempre tem algo que vai pra próxima! Eu sou Pedro Henrique, seu Scrum Master de plantão, e hoje a gente vai navegar pelo mundo ágil com bom humor, histórias reais e umas dicas que, com sorte, vão salvar sua próxima Daily.
+
 Hoje, o tema é: O que é Scrum?. Sabe aquele momento em que você tenta explicar pra sua tia o que faz no trabalho e acaba dizendo que organiza 'post-it digital'? Pois é, hoje vamos esclarecer de vez o que é esse tal de Scrum e como ele pode mudar a vida de um time!"
 Apresentação dos Convidados:
+
 "E, para essa conversa inaugural, temos aqui [Nome do Convidado 1], [cargo ou especialidade], que acredita que 'Scrum é vida!' E [Nome do Convidado 2], [cargo ou especialidade], que jura que o segredo do Scrum está na Daily bem feita!"
 Convidados respondem descontraídos: Breve apresentação deles.
 
