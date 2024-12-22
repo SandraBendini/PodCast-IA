@@ -18,14 +18,15 @@ Bora agilizar? Porque no mundo do Scrum, só uma coisa é certa: o Backlog NUNCA
 ### Desenvolvimento  
 1. Abertura 
 Música tema tocando
+
 Host (animado):
-"Fala, galera agilista! Bem-vindos ao 'O Backlog Não Tem Fim'! O podcast que é como a sua Sprint: começa cheio de promessas, mas no final sempre tem algo que vai pra próxima! Eu sou [Seu Nome], seu Scrum Master de plantão, e hoje a gente vai navegar pelo mundo ágil com bom humor, histórias reais e umas dicas que, com sorte, vão salvar sua próxima Daily.
+"Fala, galera agilista! Bem-vindos ao 'O Backlog Não Tem Fim'! O podcast que é como a sua Sprint: começa cheio de promessas, mas no final sempre tem algo que vai pra próxima! Eu sou Pedro Henrique, seu Scrum Master de plantão, e hoje a gente vai navegar pelo mundo ágil com bom humor, histórias reais e umas dicas que, com sorte, vão salvar sua próxima Daily.
 Hoje, o tema é: O que é Scrum?. Sabe aquele momento em que você tenta explicar pra sua tia o que faz no trabalho e acaba dizendo que organiza 'post-it digital'? Pois é, hoje vamos esclarecer de vez o que é esse tal de Scrum e como ele pode mudar a vida de um time!"
 Apresentação dos Convidados:
 "E, para essa conversa inaugural, temos aqui [Nome do Convidado 1], [cargo ou especialidade], que acredita que 'Scrum é vida!' E [Nome do Convidado 2], [cargo ou especialidade], que jura que o segredo do Scrum está na Daily bem feita!"
 Convidados respondem descontraídos: Breve apresentação deles.
 
-2. Bloco 1: O que é Scrum? 
+3. Bloco 1: O que é Scrum? 
 Host:
 "Antes de tudo, o que é Scrum e por que ele não tem nada a ver com rugby, mas tem tudo a ver com trabalho em equipe?"
 Convidado 1 explica de forma leve o conceito básico do Scrum, destacando o Manifesto Ágil e os pilares do Scrum: transparência, inspeção e adaptação.
@@ -36,7 +37,7 @@ Convidado 1 explica de forma leve o conceito básico do Scrum, destacando o Mani
     "Agora, me contem: qual foi o momento em que vocês perceberam que Scrum era mais que 'post-it bonito no quadro'?"
     Convidados compartilham experiências pessoais marcantes que ilustram o impacto do Scrum.
 
-3. Bloco 2: Papéis no Scrum 
+4. Bloco 2: Papéis no Scrum 
 Host:
 "Vamos descomplicar isso aqui. Quais são os três papéis no Scrum e por que cada um é fundamental?"
 Convidado 1 apresenta os papéis: Product Owner, Scrum Master e Time de Desenvolvimento, com foco nas responsabilidades de cada um.
@@ -47,7 +48,7 @@ Convidado 1 apresenta os papéis: Product Owner, Scrum Master e Time de Desenvol
     "E a pergunta que não quer calar: dá pra ser um time ágil sem Scrum Master? Ou isso é como dirigir sem GPS?"
     Convidados debatem e trazem exemplos de situações em que os papéis foram mal interpretados ou ausentes.
 
-4. Bloco 3: Eventos no Scrum 
+5. Bloco 3: Eventos no Scrum 
 Host:
 "Agora, bora falar dos eventos. Sprint Planning, Daily, Sprint Review, Retrospectiva... é muita reunião, mas tem método nessa 'loucura', né?"
 Convidado 1 explica o propósito de cada evento e por que eles são essenciais para o ciclo de melhoria contínua.
@@ -58,7 +59,7 @@ Convidado 1 explica o propósito de cada evento e por que eles são essenciais p
     "E agora, o quadro rápido: qual evento vocês acham que é o mais subestimado e por quê?"
     Convidados respondem com opiniões diretas e engraçadas.
 
-5. Bloco 4: Dicas para Começar no Scrum 
+6. Bloco 4: Dicas para Começar no Scrum 
 Host:
 "Pra galera que tá ouvindo e quer dar o primeiro passo no Scrum, o que vocês recomendam?"
 Convidados compartilham dicas para começar a implementar Scrum, incluindo ferramentas úteis, materiais de estudo e estratégias iniciais para adoção.
@@ -66,7 +67,7 @@ Convidados compartilham dicas para começar a implementar Scrum, incluindo ferra
     Host:
     "E pra fechar: qual foi o erro mais engraçado que vocês já cometeram ao começar com Scrum e o que aprenderam com isso?"
 
-6. Encerramento 
+7. Encerramento 
 Host:
 "Infelizmente, como numa Sprint, o tempo acabou! Quero agradecer [Nome do Convidado 1] e [Nome do Convidado 2] por trazerem toda essa sabedoria ágil para a nossa estreia."
 Convidados: Breves despedidas.
