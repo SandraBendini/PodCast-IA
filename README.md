@@ -74,6 +74,7 @@ Host:
 "E você, ouvinte, não esquece: segue a gente, manda suas perguntas e compartilha com o amigo que ainda acha que Scrum é coisa de TI! Lembre-se: no Scrum, como no backlog, sempre tem mais o que discutir e entregar! Até a próxima, galera!"
 Música tema encerrando.
 
+---
 
 1. Abertura do segundo episódio
 Música tema tocando
