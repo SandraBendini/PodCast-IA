@@ -122,8 +122,8 @@ Host:
 "E agora, a parte que eu mais gosto: as perguntas da comunidade! Vocês mandaram, e nossos especialistas vão responder. A primeira é da [Nome do ouvinte]: 'Como priorizar quando tudo parece importante?'"
 Convidados discutem e trazem soluções práticas.
 
-Host:
-"Próxima pergunta: [Outra pergunta]."
+    Host:
+    "Próxima pergunta: [Outra pergunta]."
 
 6. Encerramento (5 minutos)
 Host:
