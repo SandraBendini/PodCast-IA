@@ -22,7 +22,7 @@ Bora agilizar? Porque no mundo do Scrum, só uma coisa é certa: o Backlog NUNCA
 Música tema tocando
 
 Host (animado):
-"Fala, galera agilista! Bem-vindos ao 'O Backlog Não Tem Fim'! O podcast que é como a sua Sprint: começa cheio de promessas, mas no final sempre tem algo que vai pra próxima! Eu sou Pedro Henrique, seu Scrum Master de plantão, e hoje a gente vai navegar pelo mundo ágil com bom humor, histórias reais e umas dicas que, com sorte, vão salvar sua próxima Daily.
+"Fala, galera agilista! Bem-vindos ao 'O Backlog Não Tem Fim'!  Eu sou Pedro Henrique, seu Scrum Master de plantão, e hoje a gente vai navegar pelo mundo ágil com bom humor, histórias reais e umas dicas que, com sorte, vão salvar sua próxima Daily.
 
 Hoje, o tema é: O que é Scrum?. Sabe aquele momento em que você tenta explicar pra sua tia o que faz no trabalho e acaba dizendo que organiza 'post-it digital'? Pois é, hoje vamos esclarecer de vez o que é esse tal de Scrum e como ele pode mudar a vida de um time!"
 Apresentação dos Convidados:
