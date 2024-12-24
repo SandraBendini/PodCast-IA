@@ -155,6 +155,7 @@ Host:
 
 ## 📚 Materiais Desenvolvidos
  
-
-
+- [PODCAST 01 - Introdução.mp3](https://github.com/PedroHenrique-PHS/PodCast-O-Backlog-N-o-Tem-Fim-/blob/main/PODCAST%2001%20-%20Introdu%C3%A7%C3%A3o.mp3)) 
+- [PODCAST 02 - Episódio 01.mp3](https://github.com/PedroHenrique-PHS/PodCast-O-Backlog-N-o-Tem-Fim-/blob/main/PODCAST%2002%20-%20Epis%C3%B3dio%2001.mp3)
+- [PODCAST 03 - Episódio 01 - Parte II.mp3](https://github.com/PedroHenrique-PHS/PodCast-O-Backlog-N-o-Tem-Fim-/blob/main/PODCAST%2003%20-%20Epis%C3%B3dio%2001%20-%20Parte%20II.mp3)
 
