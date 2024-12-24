@@ -92,7 +92,7 @@ Convidados respondem descontraídos: Breve apresentação deles.
 
 Host: "Então, pega seu café, ajeita sua postura e bora pra mais uma conversa que promete ser tão dinâmica quanto seu Kanban na sexta-feira!"
 
-2. Bloco 1: Conceitos e Contexto (15 minutos)
+2. Bloco 1: Conceitos e Contexto 
 Host:
 "Pra começar, vamos tirar do caminho aquela pergunta que até o time mais experiente faz: o que diabos é o backlog e por que ele não para de crescer?"
 Convidado 1 explica o conceito de backlog de forma leve.
@@ -103,7 +103,7 @@ Convidado 1 explica o conceito de backlog de forma leve.
     "Agora, uma rápida rodada de mitos! Quero saber: é verdade que o backlog é só responsabilidade do Product Owner? Ou é mais um caso de 'culpa do Scrum Master'?"
     Convidados debatem e desmistificam.
 
-3. Bloco 2: Dificuldades e Aprendizados (15 minutos)
+3. Bloco 2: Dificuldades e Aprendizados 
 Host:
 "Ok, até aqui tá tranquilo. Mas vamos falar do caos. Quais são os maiores perrengues que vocês já enfrentaram com backlog? Tipo aquele item que nunca sai, ou aquela funcionalidade que cresce mais rápido que gremlin molhado?"
 Convidado 1 compartilha um caso engraçado ou desafiador.
@@ -115,7 +115,7 @@ Convidado 1 compartilha um caso engraçado ou desafiador.
     backlog?"
 Convidados discutem erros comuns e como evitá-los.
 
-4. Bloco 3: Casos de Sucesso e Dicas (15 minutos)
+4. Bloco 3: Casos de Sucesso e Dicas 
 Host:
 "Pra não dizer que é só caos, vamos às boas histórias. Conta pra gente um caso de sucesso de gestão de backlog que fez vocês pensarem: 'isso é um sonho ágil!'"
     Convidados compartilham casos de sucesso e práticas que funcionaram.
@@ -125,7 +125,7 @@ Host:
     Cada convidado dá uma dica rápida e direta.
 
 
-5. Bloco 4: Perguntas da Comunidade (10 minutos)
+5. Bloco 4: Perguntas da Comunidade 
 Host:
 "E agora, a parte que eu mais gosto: as perguntas da comunidade! Vocês mandaram, e nossos especialistas vão responder. A primeira é da [Nome do ouvinte]: 'Como priorizar quando tudo parece importante?'"
 Convidados discutem e trazem soluções práticas.
@@ -133,7 +133,7 @@ Convidados discutem e trazem soluções práticas.
     Host:
     "Próxima pergunta: [Outra pergunta]."
 
-6. Encerramento (5 minutos)
+6. Encerramento 
 Host:
 "Infelizmente, como numa Sprint, o tempo acabou! Mas antes de irmos, quero agradecer [Nome do Convidado 1] e [Nome do Convidado 2] por essas insights sensacionais."
 Convidados: Breves despedidas.
