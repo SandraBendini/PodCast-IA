@@ -149,7 +149,7 @@ Música tema encerrando.
 2. Em seguida, buscou-se a escolha de um nome apropriado. Nesse ponto, foi utilizado o CHATGPT OPENIA para analisar algumas propostas. Diante das sugestões apresentadas foi escolhida a seguinte: “"O Backlog Não Tem Fim"
 (Para quem acredita que sempre há mais a discutir e entregar)”.
 3. O próximo passo foi criar um roteiro para o podcast. Novamente foi utilizado o CHATGPT. De acordo com as sugestões apresentadas, foi sendo repassadas novas orientações para refinar o roteiro, melhorando-o até chegar no versão final.
-
+4. Para a gravação do áudio, foi utilizado o Eleven Labs onde foi preparado o texto introdutório e o primeiro episódio, selecionando as vozes disponíveis pelo software mais adequadas para esse podcast.
 
 ---
 
