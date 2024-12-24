@@ -155,8 +155,10 @@ Convidados: Breves despedidas.
 Host:
 "E você que tá ouvindo, não esquece: manda suas perguntas, segue a gente nas redes sociais e compartilha com aquele amigo que sempre 'empurra pra próxima Sprint'! E lembre-se: no Scrum, como no backlog, sempre tem mais o que discutir e entregar. Até a próxima, galera!"
 Música tema encerrando.
+
 ---
 
+## 📚 Materiais Desenvolvidos
  
 
 
