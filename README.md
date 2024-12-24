@@ -26,8 +26,6 @@ ElevenLabs
 HOST: "Fala, galera agilista! Este é o PodCast 'O Backlog Não Tem Fim!' — o podcast que é como a sua Sprint: começa cheio de promessas, mas no final sempre tem algo que vai pra próxima! Aqui, a gente descomplica o Scrum, conta histórias que você vai pensar ‘isso já aconteceu comigo’ e traz dicas pra você não surtar na próxima Daily. 
 Bora agilizar? Porque no mundo do Scrum, só uma coisa é certa: o Backlog NUNCA acaba!"
 
-(Inserir música tema ou som engraçado)
-
 "Eu sou Pedro Henrique, o Scrum Master dessa jornada podcastal. E, claro, teremos, convidados que manjam tanto de agilidade que são quase magos do backlog! Tá curioso? Então fica com a gente, pega um café — ou um post-it — e bora agilizar essa conversa!" 
 
 ---
@@ -146,7 +144,7 @@ Host:
 Convidados discutem e trazem soluções práticas.
 
     Host:
-    "Próxima pergunta: [Outra pergunta]."
+    "Próxima pergunta:"
 
 6. Encerramento 
 Host:
