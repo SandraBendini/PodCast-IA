@@ -21,10 +21,10 @@ Bora agilizar? Porque no mundo do Scrum, só uma coisa é certa: o Backlog NUNCA
 1. Abertura 
 Música tema tocando
 
-Host (animado):
+Host:
 "Fala, galera agilista! Bem-vindos ao 'O Backlog Não Tem Fim'!  Eu sou Pedro Henrique, seu Scrum Master de plantão, e hoje a gente vai navegar pelo mundo ágil com bom humor, histórias reais e umas dicas que, com sorte, vão salvar sua próxima Daily.
 
-Hoje, o tema é: O que é Scrum?. Sabe aquele momento em que você tenta explicar pra sua tia o que faz no trabalho e acaba dizendo que organiza 'post-it digital'? Pois é, hoje vamos esclarecer de vez o que é esse tal de Scrum e como ele pode mudar a vida de um time!"
+Hoje, o tema é: O que é Scrum? Sabe aquele momento em que você tenta explicar pra sua tia o que faz no trabalho e acaba dizendo que organiza 'post-it digital'? Pois é, hoje vamos esclarecer de vez o que é esse tal de Scrum e como ele pode mudar a vida de um time!"
 Apresentação dos Convidados:
 
 "E, para essa conversa inaugural, temos aqui [Nome do Convidado 1], [cargo ou especialidade], que acredita que 'Scrum é vida!' E [Nome do Convidado 2], [cargo ou especialidade], que jura que o segredo do Scrum está na Daily bem feita!"
@@ -83,7 +83,7 @@ Música tema encerrando.
 
 1. Abertura do segundo episódio
 Música tema tocando
-Host (animado): "Fala, galera agilista! Sejam muito bem-vindos ao segundo episódio de 'O Backlog Não Tem Fim'! Eu sou Pedro Henrique, seu Scrum Master preferido (ou pelo menos eu espero que sim), e hoje vamos dar um passo além na nossa jornada ágil.
+Host: "Fala, galera agilista! Sejam muito bem-vindos ao segundo episódio de 'O Backlog Não Tem Fim'! Eu sou Pedro Henrique, seu Scrum Master preferido (ou pelo menos eu espero que sim), e hoje vamos dar um passo além na nossa jornada ágil.
 
 Se no primeiro episódio a gente desvendou o que é Scrum, hoje a gente vai se aprofundar nos desafios e, claro, trazer sugestões práticas pra você sair do famoso ciclo de 'apagar incêndios'. Tá achando que é só você que sofre com backlog infinito, Sprint bagunçada ou Daily que mais parece terapia? Relaxa, tá todo mundo junto nessa!"
 
