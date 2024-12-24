@@ -32,7 +32,6 @@ Bora agilizar? Porque no mundo do Scrum, só uma coisa é certa: o Backlog NUNCA
 
 ### Desenvolvimento  
 1. Abertura 
-Música tema tocando
 
 Host:
 "Fala, galera agilista! Bem-vindos ao 'O Backlog Não Tem Fim'!  Eu sou Pedro Henrique, seu Scrum Master de plantão, e hoje a gente vai navegar pelo mundo ágil com bom humor, histórias reais e umas dicas que, com sorte, vão salvar sua próxima Daily.
@@ -90,12 +89,11 @@ Host:
 Convidados: Breves despedidas.
 Host:
 "E você, ouvinte, não esquece: segue a gente, manda suas perguntas e compartilha com o amigo que ainda acha que Scrum é coisa de TI! Lembre-se: no Scrum, como no backlog, sempre tem mais o que discutir e entregar! Até a próxima, galera!"
-Música tema encerrando.
 
 ---
 
 1. Abertura do segundo episódio
-Música tema tocando
+
 Host: "Fala, galera agilista! Sejam muito bem-vindos ao segundo episódio de 'O Backlog Não Tem Fim'! Eu sou Pedro Henrique, seu Scrum Master preferido (ou pelo menos eu espero que sim), e hoje vamos dar um passo além na nossa jornada ágil.
 
 Se no primeiro episódio a gente desvendou o que é Scrum, hoje a gente vai se aprofundar nos desafios e, claro, trazer sugestões práticas pra você sair do famoso ciclo de 'apagar incêndios'. Tá achando que é só você que sofre com backlog infinito, Sprint bagunçada ou Daily que mais parece terapia? Relaxa, tá todo mundo junto nessa!"
@@ -152,7 +150,6 @@ Host:
 Convidados: Breves despedidas.
 Host:
 "E você que tá ouvindo, não esquece: manda suas perguntas, segue a gente nas redes sociais e compartilha com aquele amigo que sempre 'empurra pra próxima Sprint'! E lembre-se: no Scrum, como no backlog, sempre tem mais o que discutir e entregar. Até a próxima, galera!"
-Música tema encerrando.
 
 ---
 
