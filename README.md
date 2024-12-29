@@ -28,7 +28,7 @@ ElevenLabs
 
         Principais barreiras para adotar a IA.
         Sugestões e dicas para superá-las.
-        Benefícios e Tendências (5-7 minutos):
+        Benefícios e Tendências.
 
         Vantagens de usar a IA em diferentes áreas.
         Discussão sobre tendências futuras.
