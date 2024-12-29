@@ -1,5 +1,5 @@
 # Projeto Podcast Gerado por I.A.s
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts em um treinmento da DIO.
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts em um treinamento da DIO sobre IA.
 
 ---
 
@@ -11,151 +11,98 @@ ElevenLabs
 ---
 
 ### Roteiro para elaboração do PodCast
-1. Primeiro ação foi a definição do assunto e proposta para o PodCast. O assunto é o Framework SCRUM e a proposta final definida foi: “Apresentar conceitos do scrum, dificuldades para sua implantação, casos de sucesso ou para o esclarecimento de dúvidas”;
-2. Em seguida, buscou-se a escolha de um nome apropriado. Nesse ponto, foi utilizado o CHATGPT OPENIA para analisar algumas propostas. Diante das sugestões apresentadas foi escolhida a seguinte: “"O Backlog Não Tem Fim - Para quem acredita que sempre há mais a discutir e entregar”.
-3. O próximo passo foi criar um roteiro para o podcast. Novamente foi utilizado o CHATGPT. De acordo com as sugestões apresentadas, foi sendo repassadas novas orientações para refinar o roteiro, melhorando-o até chegar no versão final.
-4. Para a gravação do áudio, foi utilizado o Eleven Labs onde foi preparado o texto introdutório e o primeiro episódio, selecionando as vozes disponíveis pelo software mais adequadas para esse podcast.
+1. Primeiro ação foi a definição do assunto e proposta para o PodCast. O assunto é a adoção da IA em uma empresa para apresentar facilidades, dificuldades e o caminho para sua utilização. E a proposta escolhida é "Inteligência Artificial onde serão informados formas de utilização, dificuldades e facilidades para sua utilização";
+2. Em seguida, buscou-se a escolha de um nome apropriado. Nesse ponto, foi utilizado o CHATGPT OPENAI para analisar algumas propostas. Diante das sugestões apresentadas foi escolhida a seguinte: “IA Sem Mistérios”.
+3. Foi solicitado ao CHATGPT OPENAI rever e sugerir uma proposta melhor para o podcast, sendo apresentado a segunte: ""IA Sem Mistérios" é um podcast que desmistifica o universo da Inteligência Artificial, trazendo informações práticas e acessíveis sobre como essa tecnologia pode ser utilizada no dia a dia, os desafios que apresenta e as vantagens que oferece. Nosso objetivo é mostrar que a IA não é um bicho de sete cabeças, mas uma ferramenta poderosa e acessível para pessoas e empresas.".
+4. Foi solicitado ao CHATGPT propor uma estrutura dod episódios que foi formatada da seguinte forma:
+   
+    Abertura:
+        Apresentação do tema do episódio.
+        Breve destaque sobre o que será abordado.
+        Frase de impacto ou curiosidade sobre IA.
+
+   Bloco Principal :
+        Explicação: Conceitos, exemplos e aplicações práticas.
+        Convidados (opcional): Especialistas, desenvolvedores ou usuários reais compartilhando suas experiências.
+        Dificuldades e Soluções (5-7 minutos):
+
+        Principais barreiras para adotar a IA.
+        Sugestões e dicas para superá-las.
+        Benefícios e Tendências (5-7 minutos):
+
+        Vantagens de usar a IA em diferentes áreas.
+        Discussão sobre tendências futuras.
+   
+    Encerramento :
+        Resumo do episódio.
+        Convite para feedback e interação.
+        Chamado para o próximo episódio.
+
+5. Foi solicitado ao CHATGPT propor assuntos para serem tratados nos episódios sendo listados os seguintes:
+    O que é IA e por que ela está em todo lugar?
+    Como a IA pode ajudar pequenas empresas?
+    IA no dia a dia: Assistentes virtuais, recomendações e além.
+    Ética e desafios na adoção da IA.
+    Ferramentas de IA acessíveis para iniciantes.
+    Futuro da IA: O que podemos esperar?
+    Histórias de sucesso com a aplicação da IA.
+
+6. Para a gravação do áudio, foi utilizado o Eleven Labs onde foi preparado o texto introdutório e o primeiro episódio, selecionando as vozes disponíveis pelo software mais adequadas para esse podcast.
 
 ---
 
-# Roteiro do Podcast  
-🎙 **Apresentado por Pedro Henrique** 
-## 🎧 Tema: Framework Ágil SCRUM  
+# Descrição dos Episódios  
+🎙 **Apresentado por Sandra Bendini** 
+## 🎧 Tema: IA Sem Mistérios
 
-### Introdução  
-HOST: "Fala, galera agilista! Este é o PodCast 'O Backlog Não Tem Fim!' — o podcast que é como a sua Sprint: começa cheio de promessas, mas no final sempre tem algo que vai pra próxima! Aqui, a gente descomplica o Scrum, conta histórias que você vai pensar ‘isso já aconteceu comigo’ e traz dicas pra você não surtar na próxima Daily. 
-Bora agilizar? Porque no mundo do Scrum, só uma coisa é certa: o Backlog NUNCA acaba!"
+### Episódio 1: O que é IA e por que ela está em todo lugar?
+    Introdução ao conceito de Inteligência Artificial e seus princípios básicos.
+    Breve histórico da IA: Da ficção científica às aplicações modernas.
+    Exemplos práticos de onde a IA está presente no cotidiano (assistentes virtuais, redes sociais, transporte, etc.).
+    Desmistificação de mitos sobre IA, como "ela vai substituir os humanos".
+    Encerramento com um panorama sobre a importância de entender a IA hoje.
 
-"Eu sou Pedro Henrique, o Scrum Master dessa jornada podcastal. E, claro, teremos, convidados que manjam tanto de agilidade que são quase magos do backlog! Tá curioso? Então fica com a gente, pega um café — ou um post-it — e bora agilizar essa conversa!" 
+### Episódio 2: Como a IA pode ajudar pequenas empresas?
+    Benefícios da IA para pequenos negócios (automação, personalização, marketing, etc.).
+    Ferramentas acessíveis, como chatbots, análise de dados e plataformas de automação.
+    Exemplos de casos reais de pequenas empresas que cresceram com IA.
+    Desafios enfrentados por pequenos negócios na adoção da tecnologia e como superá-los.
+    Convite para os ouvintes compartilharem suas dúvidas e experiências.
 
----
+### Episódio 3: IA no dia a dia: Assistentes virtuais, recomendações e além
+    Como ferramentas como Alexa, Siri e Google Assistant funcionam.
+    Algoritmos de recomendação: Como a IA escolhe filmes, músicas e produtos para você.
+    Aplicações menos óbvias, como saúde, transporte e planejamento financeiro.
+    Dicas para aproveitar essas tecnologias de forma mais eficiente e segura.
 
-### Desenvolvimento  
-1. Abertura 
+### Episódio 4: Ética e desafios na adoção da IA
+    Discussão sobre os dilemas éticos da IA (vieses, privacidade e impacto social).
+    Exemplos de casos polêmicos e as lições aprendidas.
+    O papel das empresas e governos na regulamentação da IA.
+    Como indivíduos podem contribuir para um uso mais responsável da tecnologia.
 
-Host:
-"Fala, galera agilista! Bem-vindos ao 'O Backlog Não Tem Fim'!  Eu sou Pedro Henrique, seu Scrum Master de plantão, e hoje a gente vai navegar pelo mundo ágil com bom humor, histórias reais e umas dicas que, com sorte, vão salvar sua próxima Daily.
+### Episódio 5: Ferramentas de IA acessíveis para iniciantes
+    Apresentação de ferramentas e plataformas gratuitas ou de baixo custo para explorar IA (ex.: ChatGPT, Canva, Google AI).
+    Exemplos de como começar pequenos projetos com essas ferramentas.
+    Dicas de aprendizado: Cursos, vídeos e comunidades online.
+    Passo a passo para criar seu primeiro projeto de IA simples.
 
-Hoje, o tema é: O que é Scrum? Sabe aquele momento em que você tenta explicar pra sua tia o que faz no trabalho e acaba dizendo que organiza 'post-it digital'? Pois é, hoje vamos esclarecer de vez o que é esse tal de Scrum e como ele pode mudar a vida de um time!"
-Apresentação dos Convidados:
+### Episódio 6: Futuro da IA: O que podemos esperar?
+    Tendências emergentes na IA (IA generativa, robótica avançada, computação quântica).
+    Discussão sobre possíveis impactos no trabalho, educação e vida pessoal.
+    Previsões sobre como a IA pode mudar indústrias específicas, como saúde, transporte e entretenimento.
+    Reflexões sobre como se preparar para um futuro impulsionado pela IA.
 
-"E, para essa conversa inaugural, temos aqui [Nome do Convidado 1], [cargo ou especialidade], que acredita que 'Scrum é vida!' E [Nome do Convidado 2], [cargo ou especialidade], que jura que o segredo do Scrum está na Daily bem feita!"
-Convidados respondem descontraídos: Breve apresentação deles.
+### Episódio 7: Histórias de sucesso com a aplicação da IA
+    Entrevistas ou relatos de pessoas e empresas que alcançaram resultados incríveis com IA.
+    Exemplos em setores como saúde, educação, varejo e agricultura.
+    O que podemos aprender com esses casos para aplicar na nossa realidade.
 
-3. Bloco 1: O que é Scrum? 
-Host:
-"Antes de tudo, o que é Scrum e por que ele não tem nada a ver com rugby, mas tem tudo a ver com trabalho em equipe?"
-Convidado 1 explica de forma leve o conceito básico do Scrum, destacando o Manifesto Ágil e os pilares do Scrum: transparência, inspeção e adaptação.
-
-    Convidado 2 complementa com exemplos práticos, como o uso do framework em projetos reais.
-
-    Host:
-    "Agora, me contem: qual foi o momento em que vocês perceberam que Scrum era mais que 'post-it bonito no quadro'?"
-    Convidados compartilham experiências pessoais marcantes que ilustram o impacto do Scrum.
-
-4. Bloco 2: Papéis no Scrum 
-Host:
-"Vamos descomplicar isso aqui. Quais são os três papéis no Scrum e por que cada um é fundamental?"
-Convidado 1 apresenta os papéis: Product Owner, Scrum Master e Time de Desenvolvimento, com foco nas responsabilidades de cada um.
-
-    Convidado 2 adiciona insights sobre os desafios mais comuns em cada papel.
-
-    Host:
-    "E a pergunta que não quer calar: dá pra ser um time ágil sem Scrum Master? Ou isso é como dirigir sem GPS?"
-    Convidados debatem e trazem exemplos de situações em que os papéis foram mal interpretados ou ausentes.
-
-5. Bloco 3: Eventos no Scrum 
-Host:
-"Agora, bora falar dos eventos. Sprint Planning, Daily, Sprint Review, Retrospectiva... é muita reunião, mas tem método nessa 'loucura', né?"
-Convidado 1 explica o propósito de cada evento e por que eles são essenciais para o ciclo de melhoria contínua.
-
-    Convidado 2 traz dicas práticas para tornar essas reuniões mais produtivas e menos cansativas.
-
-    Host:
-    "E agora, o quadro rápido: qual evento vocês acham que é o mais subestimado e por quê?"
-    Convidados respondem com opiniões diretas e engraçadas.
-
-6. Bloco 4: Dicas para Começar no Scrum 
-Host:
-"Pra galera que tá ouvindo e quer dar o primeiro passo no Scrum, o que vocês recomendam?"
-Convidados compartilham dicas para começar a implementar Scrum, incluindo ferramentas úteis, materiais de estudo e estratégias iniciais para adoção.
-
-    Host:
-    "E pra fechar: qual foi o erro mais engraçado que vocês já cometeram ao começar com Scrum e o que aprenderam com isso?"
-
-7. Encerramento 
-Host:
-"Infelizmente, como numa Sprint, o tempo acabou! Quero agradecer [Nome do Convidado 1] e [Nome do Convidado 2] por trazerem toda essa sabedoria ágil para a nossa estreia."
-Convidados: Breves despedidas.
-Host:
-"E você, ouvinte, não esquece: segue a gente, manda suas perguntas e compartilha com o amigo que ainda acha que Scrum é coisa de TI! Lembre-se: no Scrum, como no backlog, sempre tem mais o que discutir e entregar! Até a próxima, galera!"
-
----
-
-1. Abertura do segundo episódio
-
-Host: "Fala, galera agilista! Sejam muito bem-vindos ao segundo episódio de 'O Backlog Não Tem Fim'! Eu sou Pedro Henrique, seu Scrum Master preferido (ou pelo menos eu espero que sim), e hoje vamos dar um passo além na nossa jornada ágil.
-
-Se no primeiro episódio a gente desvendou o que é Scrum, hoje a gente vai se aprofundar nos desafios e, claro, trazer sugestões práticas pra você sair do famoso ciclo de 'apagar incêndios'. Tá achando que é só você que sofre com backlog infinito, Sprint bagunçada ou Daily que mais parece terapia? Relaxa, tá todo mundo junto nessa!"
-
-Apresentação dos Convidados: "E pra essa conversa de alto nível, temos dois agilistas incríveis! De um lado, [Nome do Convidado 1], que acredita que "todo problema é só uma user story esperando solução". E do outro lado, [Nome do Convidado 2], especialista em transformar caos em entregas, que jura que "uma Sprint bem planejada é quase um milagre moderno"."
-Convidados respondem descontraídos: Breve apresentação deles.
-
-Host: "Então, pega seu café, ajeita sua postura e bora pra mais uma conversa que promete ser tão dinâmica quanto seu Kanban na sexta-feira!"
-
-2. Bloco 1: Conceitos e Contexto 
-Host:
-"Pra começar, vamos tirar do caminho aquela pergunta que até o time mais experiente faz: o que diabos é o backlog e por que ele não para de crescer?"
-Convidado 1 explica o conceito de backlog de forma leve.
-
-    Convidado 2 complementa com exemplos do dia a dia.
-
-    Host:
-    "Agora, uma rápida rodada de mitos! Quero saber: é verdade que o backlog é só responsabilidade do Product Owner? Ou é mais um caso de 'culpa do Scrum Master'?"
-    Convidados debatem e desmistificam.
-
-3. Bloco 2: Dificuldades e Aprendizados 
-Host:
-"Ok, até aqui tá tranquilo. Mas vamos falar do caos. Quais são os maiores perrengues que vocês já enfrentaram com backlog? Tipo aquele item que nunca sai, ou aquela funcionalidade que cresce mais rápido que gremlin molhado?"
-Convidado 1 compartilha um caso engraçado ou desafiador.
-
-    Convidado 2 traz uma experiência positiva, mostrando como superaram uma dificuldade.
-
-    Host:
-    "E para quem tá ouvindo e pensando: 'meu backlog é pior', calma que ainda não acabamos! Quais são as maiores armadilhas que um time pode cair na hora de gerenciar 
-    backlog?"
-Convidados discutem erros comuns e como evitá-los.
-
-4. Bloco 3: Casos de Sucesso e Dicas 
-Host:
-"Pra não dizer que é só caos, vamos às boas histórias. Conta pra gente um caso de sucesso de gestão de backlog que fez vocês pensarem: 'isso é um sonho ágil!'"
-    Convidados compartilham casos de sucesso e práticas que funcionaram.
-
-    Host:
-    "E agora, aquele momento: dica relâmpago! Se vocês tivessem que dar uma única dica pra galera melhorar o backlog, qual seria?"
-    Cada convidado dá uma dica rápida e direta.
-
-
-5. Bloco 4: Perguntas da Comunidade 
-Host:
-"E agora, a parte que eu mais gosto: as perguntas da comunidade! Vocês mandaram, e nossos especialistas vão responder. A primeira é da [Nome do ouvinte]: 'Como priorizar quando tudo parece importante?'"
-Convidados discutem e trazem soluções práticas.
-
-    Host:
-    "Próxima pergunta:"
-
-6. Encerramento 
-Host:
-"Infelizmente, como numa Sprint, o tempo acabou! Mas antes de irmos, quero agradecer [Nome do Convidado 1] e [Nome do Convidado 2] por essas insights sensacionais."
-Convidados: Breves despedidas.
-Host:
-"E você que tá ouvindo, não esquece: manda suas perguntas, segue a gente nas redes sociais e compartilha com aquele amigo que sempre 'empurra pra próxima Sprint'! E lembre-se: no Scrum, como no backlog, sempre tem mais o que discutir e entregar. Até a próxima, galera!"
+### Encerramento com uma mensagem de motivação para experimentar a IA.
 
 ---
 
 ## 📚 Materiais Desenvolvidos
  
-- [PODCAST 01 - Introdução.mp3](https://github.com/PedroHenrique-PHS/PodCast-O-Backlog-N-o-Tem-Fim-/blob/main/PODCAST%2001%20-%20Introdu%C3%A7%C3%A3o.mp3) 
-- [PODCAST 02 - Episódio 01.mp3](https://github.com/PedroHenrique-PHS/PodCast-O-Backlog-N-o-Tem-Fim-/blob/main/PODCAST%2002%20-%20Epis%C3%B3dio%2001.mp3)
-- [PODCAST 03 - Episódio 01 - Parte II.mp3](https://github.com/PedroHenrique-PHS/PodCast-O-Backlog-N-o-Tem-Fim-/blob/main/PODCAST%2003%20-%20Epis%C3%B3dio%2001%20-%20Parte%20II.mp3)
+
 
