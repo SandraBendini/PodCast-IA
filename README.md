@@ -21,22 +21,22 @@ ElevenLabs
         Breve destaque sobre o que será abordado.
         Frase de impacto ou curiosidade sobre IA.
 
-   Bloco Principal :
-        Explicação: Conceitos, exemplos e aplicações práticas.
-        Convidados (opcional): Especialistas, desenvolvedores ou usuários reais compartilhando suas experiências.
-        Dificuldades e Soluções (5-7 minutos):
+   Bloco Principal:
+        Explicação: Conceitos, exemplos e aplicações práticas
+        Convidados (opcional): Especialistas, desenvolvedores ou usuários reais compartilhando suas experiências
+        Dificuldades e Soluções 
 
-        Principais barreiras para adotar a IA.
-        Sugestões e dicas para superá-las.
-        Benefícios e Tendências.
+        Principais barreiras para adotar a IA
+        Sugestões e dicas para superá-las
+        Benefícios e Tendências
 
-        Vantagens de usar a IA em diferentes áreas.
-        Discussão sobre tendências futuras.
+        Vantagens de usar a IA em diferentes áreas
+        Discussão sobre tendências futuras
    
-    Encerramento :
-        Resumo do episódio.
-        Convite para feedback e interação.
-        Chamado para o próximo episódio.
+    Encerramento:
+        Resumo do episódio
+        Convite para feedback e interação
+        Chamado para o próximo episódio
 
 5. Foi solicitado ao CHATGPT propor assuntos para serem tratados nos episódios sendo listados os seguintes:
     O que é IA e por que ela está em todo lugar?
