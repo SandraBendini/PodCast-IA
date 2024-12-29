@@ -14,7 +14,8 @@ ElevenLabs
 1. Primeiro ação foi a definição do assunto e proposta para o PodCast. O assunto é a adoção da IA em uma empresa para apresentar facilidades, dificuldades e o caminho para sua utilização. E a proposta escolhida é "Inteligência Artificial onde serão informados formas de utilização, dificuldades e facilidades para sua utilização";
 2. Em seguida, buscou-se a escolha de um nome apropriado. Nesse ponto, foi utilizado o CHATGPT OPENAI para analisar algumas propostas. Diante das sugestões apresentadas foi escolhida a seguinte: “IA Sem Mistérios”.
 3. Foi solicitado ao CHATGPT OPENAI rever e sugerir uma proposta melhor para o podcast, sendo apresentado a segunte: ""IA Sem Mistérios" é um podcast que desmistifica o universo da Inteligência Artificial, trazendo informações práticas e acessíveis sobre como essa tecnologia pode ser utilizada no dia a dia, os desafios que apresenta e as vantagens que oferece. Nosso objetivo é mostrar que a IA não é um bicho de sete cabeças, mas uma ferramenta poderosa e acessível para pessoas e empresas.".
-4. Foi solicitado ao CHATGPT propor uma estrutura dod episódios que foi formatada da seguinte forma:  
+4. Foi solicitado ao CHATGPT propor uma estrutura dos episódios que foi formatada da seguinte forma:
+   
       Abertura:
           Apresentação do tema do episódio.
           Breve destaque sobre o que será abordado.
@@ -33,7 +34,7 @@ ElevenLabs
           Convite para feedback e interação
           Chamado para o próximo episódio.
 
-5. Foi solicitado ao CHATGPT propor assuntos para serem tratados nos episódios sendo listados os seguintes:
+6. Foi solicitado ao CHATGPT propor assuntos para serem tratados nos episódios sendo listados os seguintes:
     O que é IA e por que ela está em todo lugar?
     Como a IA pode ajudar pequenas empresas?
     IA no dia a dia: Assistentes virtuais, recomendações e além.
@@ -42,7 +43,7 @@ ElevenLabs
     Futuro da IA: O que podemos esperar?
     Histórias de sucesso com a aplicação da IA.
 
-6. Para a gravação do áudio, foi utilizado o Eleven Labs onde foi preparado o texto introdutório e o primeiro episódio, selecionando as vozes disponíveis pelo software mais adequadas para esse podcast.
+7. Para a gravação do áudio, foi utilizado o Eleven Labs onde foi preparado o texto introdutório e o primeiro episódio, selecionando as vozes disponíveis pelo software mais adequadas para esse podcast.
 
 ---
 
