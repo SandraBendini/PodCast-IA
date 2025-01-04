@@ -151,5 +151,5 @@ Até a próxima, pessoal!"
 
 ## 📚 Materiais Desenvolvidos
  
-
-
+https://github.com/SandraBendini/PodCast-IA/blob/main/EPIS%C3%93DIO%2001%20-%20ElevenLabs_2025-01-04T01_04_32_Daiane%20Candido_pvc_s50_sb75_se0_b_m2.mp3
+https://github.com/SandraBendini/PodCast-IA/blob/main/EPIS%C3%93DIO%2002%20-%20ElevenLabs_2025-01-04T01_14_10_Daiane%20Candido_pvc_s50_sb75_se0_b_m2.mp3
